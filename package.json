@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-color-markers",
+  "version": "1.0.0",
+  "description": "leaflet-color-markers =====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbericoD/leaflet-color-markers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbericoD/leaflet-color-markers/issues"
+  },
+  "homepage": "https://github.com/AlbericoD/leaflet-color-markers#readme"
+}
